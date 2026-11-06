@@ -2,7 +2,7 @@
 
 <h1>Clash Projects</h1>
 
-<p><strong>Building high-fidelity open-source music clients and modern media tools.</strong></p>
+<p><strong>Home of LastWave — open-source, bit-perfect music streaming for Android and Desktop.</strong></p>
 
 <p align="center">
   <a href="https://t.me/clashprojects" target="_blank"><img src="https://raw.githubusercontent.com/Clash-Projects/.github/main/badges/btn_telegram_support.svg" alt="Telegram Support" height="42" /></a>
@@ -14,74 +14,93 @@
 
 ---
 
-## Featured Ecosystem
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## Projects
 
 ### [LastWave Native](https://github.com/Clash-Projects/LastWave-Native)
-**Flagship YouTube Music Client for Android**
 
-Built 100% with Kotlin, Jetpack Compose, Material 3 Expressive, and Liquid Glass UI.
+Native Android YouTube Music client built with Material 3 Expressive, Liquid Glass UI, Bit-Perfect USB DAC audio output, 15-band EQ with AutoEQ presets, Automix, and live synced lyrics.
 
-- **Bit-Perfect Audio:** Exclusive direct hardware USB DAC output
-- **Audiophile DSP:** 15-band parametric EQ & 5,000+ AutoEQ headphone targets
-- **Real-Time Lyrics:** Millisecond-synced lyrics with multi-script romanization
-- **Modern Design:** Real-time backdrop refraction shaders & dynamic Monet theming
-- **Seamless Playback:** Background streaming, Automix transitions, and offline caching
-- **Lossless Addons:** Modular 24-bit Hi-Res FLAC integration
+<p align="left">
+  <a href="https://github.com/Clash-Projects/LastWave-Native" target="_blank"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Native?style=for-the-badge" alt="Stars" /></a>
+  <a href="https://github.com/Clash-Projects/LastWave-Native" target="_blank"><img src="https://img.shields.io/badge/Android-LastWave%20Native-2ecc71?style=for-the-badge&logo=android" alt="LastWave Native" /></a>
+  <a href="https://github.com/Clash-Projects/LastWave-Native/releases" target="_blank"><img src="https://img.shields.io/badge/Releases-Download-blue?style=for-the-badge" alt="Download Releases" /></a>
+</p>
 
-<br/>
-
-**Lead Developers:**
-<br/>
-<a href="https://github.com/ajisth69"><img src="https://github.com/ajisth69.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="ajisth69" title="ajisth69" /></a>
-<a href="https://github.com/duxtami"><img src="https://github.com/duxtami.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="duxtami" title="duxtami" /></a>
-<a href="https://github.com/x-man-tg"><img src="https://github.com/x-man-tg.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="x-man-tg" title="x-man-tg" /></a>
-<br/>
-<sub><b>Ajisth</b> (@ajisth69) • <b>duxtami</b> (@duxtami) • <b>x-man-tg</b> (@x-man-tg)</sub>
-
-<br/><br/>
-<a href="https://github.com/Clash-Projects/LastWave-Native"><img src="https://img.shields.io/badge/Explore-LastWave%20Native-00C853?style=for-the-badge&logo=android&logoColor=white" alt="View Native Repo"/></a>
-
-</td>
-    <td width="50%" valign="top">
+---
 
 ### [LastWave Desktop](https://github.com/Clash-Projects/LastWave-Desktop)
-**Cross-Platform YouTube Music Client for Desktop**
 
-Built with modern WinUI and Flutter for Windows, Linux, and macOS.
+Cross-platform desktop YouTube Music client with modern WinUI styling for Windows, Linux & macOS, low-latency libmpv playback, Automix transitions, and Lossless addons.
 
-- **WinUI & Fluent Design:** Native acrylic blur, glass refraction & responsive layouts
-- **libmpv Playback Engine:** Low-latency, bit-perfect streaming powered by `media_kit`
-- **Smart Queue & Automix:** Algorithmic smart playlist generation and smooth crossfade
-- **Synced Lyrics & Scrobbling:** Real-time synchronized lyrics and Last.fm scrobbler
-- **Lossless FLAC Addons:** Modular lossless streaming support
-- **Desktop First:** Global media hotkeys, system tray controls & mini-player
-
-<br/>
-
-**Lead Developers:**
-<br/>
-<a href="https://github.com/MrinmoyHaloi"><img src="https://github.com/MrinmoyHaloi.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="MrinmoyHaloi" title="MrinmoyHaloi" /></a>
-<a href="https://github.com/ajisth69"><img src="https://github.com/ajisth69.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="ajisth69" title="ajisth69" /></a>
-<a href="https://github.com/SYR3X"><img src="https://github.com/SYR3X.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="SYR3X" title="SYR3X" /></a>
-<br/>
-<sub><b>Mrinmoy</b> (@MrinmoyHaloi) • <b>Ajisth</b> (@ajisth69) • <b>Kehan</b> (@SYR3X)</sub>
-
-<br/><br/>
-<a href="https://github.com/Clash-Projects/LastWave-Desktop"><img src="https://img.shields.io/badge/Explore-LastWave%20Desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="View Desktop Repo"/></a>
-
-</td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/Clash-Projects/LastWave-Desktop" target="_blank"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=for-the-badge" alt="Stars" /></a>
+  <a href="https://github.com/Clash-Projects/LastWave-Desktop" target="_blank"><img src="https://img.shields.io/badge/Desktop-LastWave%20Desktop-0078D4?style=for-the-badge&logo=windows" alt="LastWave Desktop" /></a>
+  <a href="https://github.com/Clash-Projects/LastWave-Desktop/releases" target="_blank"><img src="https://img.shields.io/badge/Releases-Download-blue?style=for-the-badge" alt="Download Releases" /></a>
+</p>
 
 ---
 
 ## Team & Contributors
 
-Clash Projects is built and maintained by a dedicated group of open-source contributors and developers.
+### Native Developers
+
+<div align="left">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/ajisth69" target="_blank">
+          <img src="https://github.com/ajisth69.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="ajisth69" />
+          <br/>
+          <sub><b>ajisth69</b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/duxtami" target="_blank">
+          <img src="https://github.com/duxtami.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="duxtami" />
+          <br/>
+          <sub><b>duxtami</b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/Pyrexus" target="_blank">
+          <img src="https://github.com/Pyrexus.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="Pyrexus" />
+          <br/>
+          <sub><b>Pyrexus</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Desktop Developers
+
+<div align="left">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/MrinmoyHaloi" target="_blank">
+          <img src="https://github.com/MrinmoyHaloi.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="MrinmoyHaloi" />
+          <br/>
+          <sub><b>MrinmoyHaloi</b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/ajisth69" target="_blank">
+          <img src="https://github.com/ajisth69.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="ajisth69" />
+          <br/>
+          <sub><b>ajisth69</b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/SYR3X" target="_blank">
+          <img src="https://github.com/SYR3X.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="SYR3X" />
+          <br/>
+          <sub><b>SYR3X</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Internal Contributors
 
