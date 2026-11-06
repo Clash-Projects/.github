@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>⚡ Clash Projects</h1>
+<h1>Clash Projects</h1>
 
 <p><strong>Building high-fidelity open-source music clients and modern media tools.</strong></p>
 
@@ -20,17 +20,17 @@
   <tr>
     <td width="50%" valign="top">
 
-### 📱 [LastWave Native](https://github.com/Clash-Projects/LastWave-Native)
+### [LastWave Native](https://github.com/Clash-Projects/LastWave-Native)
 **Flagship YouTube Music Client for Android**
 
 Built 100% with Kotlin, Jetpack Compose, Material 3 Expressive, and Liquid Glass UI.
 
-- 🎧 **Bit-Perfect Audio:** Exclusive direct hardware USB DAC output
-- 🎛️ **Audiophile DSP:** 15-band parametric EQ & 5,000+ AutoEQ headphone targets
-- 📜 **Real-Time Lyrics:** Millisecond-synced lyrics with multi-script romanization
-- 🎨 **Modern Design:** Real-time backdrop refraction shaders & dynamic Monet theming
-- ⚡ **Seamless Playback:** Background streaming, Automix transitions, and offline caching
-- 📦 **Lossless Addons:** Modular 24-bit Hi-Res FLAC integration
+- **Bit-Perfect Audio:** Exclusive direct hardware USB DAC output
+- **Audiophile DSP:** 15-band parametric EQ & 5,000+ AutoEQ headphone targets
+- **Real-Time Lyrics:** Millisecond-synced lyrics with multi-script romanization
+- **Modern Design:** Real-time backdrop refraction shaders & dynamic Monet theming
+- **Seamless Playback:** Background streaming, Automix transitions, and offline caching
+- **Lossless Addons:** Modular 24-bit Hi-Res FLAC integration
 
 <br/>
 
@@ -48,17 +48,17 @@ Built 100% with Kotlin, Jetpack Compose, Material 3 Expressive, and Liquid Glass
 </td>
     <td width="50%" valign="top">
 
-### 💻 [LastWave Desktop](https://github.com/Clash-Projects/LastWave-Desktop)
+### [LastWave Desktop](https://github.com/Clash-Projects/LastWave-Desktop)
 **Cross-Platform YouTube Music Client for Desktop**
 
 Built with modern WinUI and Flutter for Windows, Linux, and macOS.
 
-- 🖥️ **WinUI & Fluent Design:** Native acrylic blur, glass refraction & responsive layouts
-- 🔊 **libmpv Playback Engine:** Low-latency, bit-perfect streaming powered by `media_kit`
-- 📻 **Smart Queue & Automix:** Algorithmic smart playlist generation and smooth crossfade
-- 📜 **Synced Lyrics & Scrobbling:** Real-time synchronized lyrics and Last.fm scrobbler
-- 📦 **Lossless FLAC Addons:** Modular lossless streaming support
-- ⌨️ **Desktop First:** Global media hotkeys, system tray controls & mini-player
+- **WinUI & Fluent Design:** Native acrylic blur, glass refraction & responsive layouts
+- **libmpv Playback Engine:** Low-latency, bit-perfect streaming powered by `media_kit`
+- **Smart Queue & Automix:** Algorithmic smart playlist generation and smooth crossfade
+- **Synced Lyrics & Scrobbling:** Real-time synchronized lyrics and Last.fm scrobbler
+- **Lossless FLAC Addons:** Modular lossless streaming support
+- **Desktop First:** Global media hotkeys, system tray controls & mini-player
 
 <br/>
 
@@ -152,5 +152,5 @@ If our apps have been useful to you, consider supporting ongoing development:
 ---
 
 <div align="center">
-  <sub>© Clash Projects • Free & Open Source Software</sub>
+  <sub>Clash Projects • Free & Open Source Software</sub>
 </div>
