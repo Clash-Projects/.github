@@ -38,7 +38,7 @@ Built 100% with Kotlin, Jetpack Compose, Material 3 Expressive, and Liquid Glass
 <br/>
 <a href="https://github.com/ajisth69"><img src="https://github.com/ajisth69.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="ajisth69" title="ajisth69" /></a>
 <a href="https://github.com/duxtami"><img src="https://github.com/duxtami.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="duxtami" title="duxtami" /></a>
-<a href="https://github.com/x-man-tg"><img src="https://github.com/x-man-tg.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="x-man-tg" title="Pyrexus" /></a>
+<a href="https://github.com/Pyrexus"><img src="https://github.com/x-man-tg.png?size=70" width="36" height="36" style="border-radius: 50%;" alt="x-man-tg" title="Pyrexus" /></a>
 <br/>
 <sub><b>Ajisth</b> (@ajisth69) • <b>duxtami</b> (@duxtami) • <b>Pyrexus</b> (@Pyrexus)</sub>
 
