@@ -68,6 +68,13 @@ Cross-platform desktop YouTube Music client with modern WinUI styling for Window
           <sub><b>Pyrexus</b></sub>
         </a>
       </td>
+      <td align="center" style="padding: 12px 24px; border: none;">
+        <a href="https://github.com/Sahank29" target="_blank">
+          <img src="https://github.com/Sahank29.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="Sahank29" />
+          <br/>
+          <sub><b>Sahank29</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
@@ -108,10 +115,10 @@ Cross-platform desktop YouTube Music client with modern WinUI styling for Window
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="padding: 12px 20px; border: none;">
-        <a href="https://github.com/Sahank29" target="_blank">
-          <img src="https://github.com/Sahank29.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="Sahank29" />
+        <a href="https://github.com/sundaywired" target="_blank">
+          <img src="https://github.com/sundaywired.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="sundaywired" />
           <br/>
-          <sub><b>Sahank29</b></sub>
+          <sub><b>sundaywired</b></sub>
         </a>
       </td>
       <td align="center" style="padding: 12px 20px; border: none;">
@@ -140,6 +147,13 @@ Cross-platform desktop YouTube Music client with modern WinUI styling for Window
           <img src="https://github.com/DChitale.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="DChitale" />
           <br/>
           <sub><b>DChitale</b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px 20px; border: none;">
+        <a href="https://github.com/Musaibbhat120605" target="_blank">
+          <img src="https://github.com/Musaibbhat120605.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="Musaibbhat120605" />
+          <br/>
+          <sub><b>Musaibbhat120605</b></sub>
         </a>
       </td>
     </tr>
