@@ -115,10 +115,10 @@ Cross-platform desktop YouTube Music client with modern WinUI styling for Window
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="padding: 12px 20px; border: none;">
-        <a href="https://github.com/Miserant" target="_blank">
-          <img src="https://github.com/Miserant.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="Miseranthia" />
+        <a href="https://github.com/5xvk" target="_blank">
+          <img src="https://github.com/5xvk.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="5xvk" />
           <br/>
-          <sub><b>Miserant</b></sub>
+          <sub><b>5xvk</b></sub>
         </a>
       </td>
       <td align="center" style="padding: 12px 20px; border: none;">
